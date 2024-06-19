@@ -9,6 +9,7 @@ Reading group on symbolic execution, program analysis, and related topics.
 
 - [Memory Models in Symbolic Execution: Key Ideas and New Thoughts](papers/memsight.pdf)
 - [Generalized Symbolic Execution for Model Checking and Testing](papers/)
+- [Gillian: Foundations, Implementation, and Applications of Compositional Symbolic Execution (PhD Thesis)](papers/)
 
 #### Refile
 
