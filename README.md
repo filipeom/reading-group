@@ -8,8 +8,9 @@ Reading group on symbolic execution, program analysis, and related topics.
 #### Memory Models
 
 - [Memory Models in Symbolic Execution: Key Ideas and New Thoughts](papers/memsight.pdf)
-- [Generalized Symbolic Execution for Model Checking and Testing](papers/)
+- [A Precise and Abstract Memory Model for C Using Symbolic Values](papers/C_memory_model.pdf)
 - [Gillian: Foundations, Implementation, and Applications of Compositional Symbolic Execution (PhD Thesis)](papers/)
+- [Generalized Symbolic Execution for Model Checking and Testing](papers/)
 
 #### Refile
 
